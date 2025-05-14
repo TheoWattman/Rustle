@@ -1,16 +1,5002 @@
 [
-    {
-        "name": ["Assault Rifle"],
-        "releaseDate": ["2016"],
-        "type": ["weapon"],
-        "isCraftable": ["true"],
-        "availability": ["scientist", "elite crate"]
-      },
-      {
-        "name": ["Semi Auto Rifle"],
-        "releaseDate": ["2018"],
-        "type": ["weapon"],
-        "isCraftable": ["true"],
-        "availability": ["scientist", "military crate"]
-      }
+  {
+    "name": [
+      "8x Zoom Scope"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Assault Rifle"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Ballista"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Battering Ram"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Beancan Grenade"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Bee Grenade"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Blow Pipe"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Bolt Action Rifle"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Bone Club"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Bone Knife"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Boomerang"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Candy Cane Club"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Catapult"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Combat Knife"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2022"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Compound Bow"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Crossbow"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Custom SMG"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Double Barrel Shotgun"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Eoka Pistol"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Extended Magazine"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2022"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "F1 Grenade"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Flame Thrower"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Flashbang"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2022"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Gas Compression Overdrive"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2024"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "HMLMG"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2022"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Handmade SMG"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2024"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "High Caliber Revolver"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2024"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Holosight"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Homing Missile Launcher"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2023"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Hunting Bow"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "L96 Rifle"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "LR-300 Assault Rifle"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Longsword"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "M249"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "M39 Rifle"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2020"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "M4 Shotgun"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "M92 Pistol"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "MP5A4"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Mace"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Machete"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Military Flame Thrower"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2024"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Mini Crossbow"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Minigun"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2024"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Molotov Cocktail"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2022"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Mounted Ballista"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Multiple Grenade Launcher"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2019"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Muzzle Boost"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Muzzle Brake"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Nailgun"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Paddle"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2020"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Prototype 17"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2022"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Pump Shotgun"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Python Revolver"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Revolver"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Rocket Launcher"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "SKS"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2024"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Salvaged Cleaver"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Salvaged Sword"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Semi-Automatic Pistol"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Semi-Automatic Rifle"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Siege Tower"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2025"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Silencer"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Simple Handmade Sight"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Spas-12 Shotgun"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Speargun"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2021"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Stone Spear"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Thompson"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Variable Zoom Scope"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2024"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Waterpipe Shotgun"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Weapon Lasersight"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Weapon flashlight"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Wooden Spear"
+    ],
+    "type": [
+      "weapon"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Flame Turret"
+    ],
+    "type": [
+      "construction"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Homemade Landmine"
+    ],
+    "type": [
+      "construction"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "SAM Site"
+    ],
+    "type": [
+      "construction"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Shotgun Trap"
+    ],
+    "type": [
+      "construction"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Snap Trap"
+    ],
+    "type": [
+      "construction"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Tin Can Alarm"
+    ],
+    "type": [
+      "construction"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Wooden Floor Spikes"
+    ],
+    "type": [
+      "construction"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Anti-Radiation Pills"
+    ],
+    "type": [
+      "medical"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Bandage"
+    ],
+    "type": [
+      "medical"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Blood"
+    ],
+    "type": [
+      "medical"
+    ],
+    "stackSize": [
+      "×1,000"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Large Medkit"
+    ],
+    "type": [
+      "medical"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Medical Syringe"
+    ],
+    "type": [
+      "medical"
+    ],
+    "stackSize": [
+      "×2"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Binoculars"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Birthday Cake"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Camera"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Chainsaw"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Fishing Tackle"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Flare"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Flashlight"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Garry's Mod Tool Gun"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Geiger Counter"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Hammer"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Handcuffs"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Handmade Fishing Rod"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Hatchet"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Instant Camera"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Jackhammer"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Metal Detector"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Pickaxe"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "RF Transmitter"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Rock"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Salvaged Axe"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Salvaged Hammer"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Salvaged Icepick"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Satchel Charge"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Shovel"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Smoke Grenade"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2019"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Spray Can"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Stone Hatchet"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Stone Pickaxe"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Supply Signal"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Survey Charge"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Timed Explosive Charge"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Torch"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "30 sec"
+    ]
+  },
+  {
+    "name": [
+      "Water Bucket"
+    ],
+    "type": [
+      "tool"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "12 Gauge Buckshot"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "12 Gauge Incendiary Shell"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "12 Gauge Slug"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×32"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "40mm HE Grenade"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×12"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "40mm Shotgun Round"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×24"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "40mm Smoke Grenade"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×12"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "5.56 Rifle Ammo"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×128"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Bone Arrow"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Explosive 5.56 Rifle Ammo"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×128"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Fire Arrow"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Firebomb"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×4"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "HV 5.56 Rifle Ammo"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×128"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "HV Pistol Ammo"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×128"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Hammerhead Bolt"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Handmade Shell"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "High Velocity Arrow"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "High Velocity Rocket"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Homing Missile"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×4"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Incapacitate Dart"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Incendiary 5.56 Rifle Ammo"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×128"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Incendiary Bolt"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Incendiary Pistol Bullet"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×128"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Incendiary Rocket"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "MLRS Rocket"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×6"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Nailgun Nails"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Piercer Bolt"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Pistol Bullet"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×128"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Pitchfork Bolt"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Propane Explosive Bomb"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×4"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Radiation Dart"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Rocket"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "SAM Ammo"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×1,000"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Scatter Dart"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Scattershot"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×4"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Smoke Rocket WIP!!!!"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×3"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "1 hour"
+    ]
+  },
+  {
+    "name": [
+      "Speargun Spear"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Torpedo"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×100"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Wood Dart"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Wooden Arrow"
+    ],
+    "type": [
+      "Ammo"
+    ],
+    "stackSize": [
+      "×64"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Advent Calendar"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Asbestos Armor Insert"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Bamboo Barrel"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Barbeque"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Bath Tub Planter"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Bed"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Bota Bag"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Camp Fire"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Carvable Pumpkin"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Chair"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Chicken Coop"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Chinese Lantern"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Chinese Lantern White"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Chippy Arcade Game"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Christmas Door Wreath"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Christmas Lights"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×20"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Christmas Tree"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Clan Table"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Composter"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Cooking Workbench"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Discord Trophy"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Diver propulsion vehicle"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Double Sign Post"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Dragon Door Knocker"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Drone"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Drop Box"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Easter Door Wreath"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Engineering Workbench"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Festive Doorway Garland"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Festive Double Doorway Garland"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Festive Window Garland"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Fish Trophy"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Frankenstein Table"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Fridge"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Frontier Bolts Single Item Rack"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Frontier Horns Single Item Rack"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Frontier Horseshoe Single Item Rack"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Furnace"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Half Height Bamboo Shelves"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Hazmat Plushy"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Hazmat Youtooz"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Heavy Scientist Youtooz"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Hitch & Trough"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Hobo Barrel"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Horizontal Weapon Rack"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Huge Wooden Sign"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Jack O Lantern Angry"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Jack O Lantern Happy"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Kayak"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Landscape Photo Frame"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Landscape Picture Frame"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Lantern"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Large Banner Hanging"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Large Banner on pole"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Large Furnace"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Large Hunting Trophy"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Large Photo Frame"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Large Planter Box"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Large Wood Box"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Large Wooden Sign"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Lead Armor Insert"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Locker"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Mail Box"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Medium Wooden Sign"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Metal Armor Insert"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Minecart Planter"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Mixing Table"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2020"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "One Sided Town Sign Post"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Paper Map"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "30 sec"
+    ]
+  },
+  {
+    "name": [
+      "Pookie Bear"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Portrait Photo Frame"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Portrait Picture Frame"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Repair Bench"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Research Table"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "40 min"
+    ]
+  },
+  {
+    "name": [
+      "Rocking Chair"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Rug"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Rug Bear Skin"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "SUPER Stocking"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Salvaged Shelves"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Scarecrow"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Secretlab Chair"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Single Plant Pot"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Single Shallow Wall Shelves"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Single Sign Post"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Skull Door Knocker"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Skull Fire Pit"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "2018"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Sleeping Bag"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Small Hunting Trophy"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Small Oil Refinery"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "20 min"
+    ]
+  },
+  {
+    "name": [
+      "Small Planter Box"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Small Stash"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Small Stocking"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×5"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Small Wooden Sign"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×1"
+    ],
+    "craftable": [
+      true
+    ],
+    "releaseDate": [
+      "<2017"
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  },
+  {
+    "name": [
+      "Snake Venom"
+    ],
+    "type": [
+      "item"
+    ],
+    "stackSize": [
+      "×10"
+    ],
+    "craftable": [
+      false
+    ],
+    "releaseDate": [
+      []
+    ],
+    "despawnTime": [
+      "5 min"
+    ]
+  }
 ]

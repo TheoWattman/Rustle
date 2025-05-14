@@ -7,6 +7,8 @@ import './App.css'
 function App() {
   const [value, setValue] = useState<string>('');
 
+  const [completions, setCompletions] = useState<string[]>([]);
+
   const handleInputChange = async (newValue: string) => {
     setValue(newValue);
     if(newValue.length >= 3) {
@@ -18,7 +20,7 @@ function App() {
         body: JSON.stringify({ input: newValue })
       })
     const data = await response.json();
-    console.log(data);
+    setCompletions(data.body);
     }
   };
 
@@ -44,7 +46,7 @@ function App() {
 
   return (
     <>
-      <InputBar placeholder="Enter text here" onChange={handleInputChange} onSubmit={handleSubmit} />
+      <InputBar placeholder="Enter text here" completions={completions} onChange={handleInputChange} onSubmit={handleSubmit} />
       <p>Current value: {value}</p>
       <h1>Vite + React</h1>
 

@@ -19,7 +19,7 @@ function countCommonElements(a, b) {
     return count;
 } 
 
-const solution = findItemByName("Assault Rifle");
+const solution = findItemByName("Flame Turret");
 
 function findItemByName(name) {
     const index = items.findIndex((item) => item.name == name);
