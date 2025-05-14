@@ -3,19 +3,18 @@ import GuessRow from "./GuessRow";
 
 interface GuessContainerProps {
     guesses: Item[];
-    solution: Item;
-    categories: string[];
+    feedbacks: Record<string, 'wrong' | 'close' | 'right'>[];
 }
 
-const GuessContainer: React.FC<GuessContainerProps> = ({ guesses, solution, categories }) => {
+const GuessContainer: React.FC<GuessContainerProps> = ({ guesses, feedbacks }) => {
     return (
       <div className="guess-container space-y-2">
         {guesses.map((guess, index) => (
           <GuessRow
             key={index}
             guess={guess}
-            solution={solution}
-            categories={categories}
+            feedback={feedbacks[index]}
+            categories={["name", "releaseDate", "type", "isCraftable", "availability"]}
           />
         ))}
       </div>

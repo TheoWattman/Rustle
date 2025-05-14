@@ -7,30 +7,40 @@ import './App.css'
 function App() {
   const [value, setValue] = useState<string>('');
 
-  const handleInputChange = (newValue: string) => {
+  const handleInputChange = async (newValue: string) => {
     setValue(newValue);
-  };
-
-  const handleSubmit = (value: string) => {
-    console.log(value);
-  };
-
-  const items: Item[] = [
-    {
-      name: ["Assault Rifle"],
-      releaseDate: ["2016"],
-      type: ["weapon"],
-      isCraftable: ["true"],
-      availability: ["scientist", "elite crate"]
-    },
-    {
-      name: ["Semi Auto Rifle"],
-      releaseDate: ["2018"],
-      type: ["weapon"],
-      isCraftable: ["true"],
-      availability: ["scientist", "military crate"]
+    if(newValue.length >= 3) {
+      const response = await fetch(`http://localhost:3000/items`, {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ input: newValue })
+      })
+    const data = await response.json();
+    console.log(data);
     }
-  ]
+  };
+
+  const handleSubmit = async (value: string) =>{
+    const response = await fetch(`http://localhost:3000/validateGuess`, {
+      method: "POST",
+      headers: {
+          "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ value })
+    })
+    const data = await response.json();
+
+    const parsed = (data.body);
+    const { guess, categoryFeedback } = parsed;
+
+    setGuesses(prev => [...prev, guess]);
+    setFeedbacks(prev => [...prev, categoryFeedback]);
+  };
+
+  const [guesses, setGuesses] = useState<Item[]>([]);
+  const [feedbacks, setFeedbacks] = useState<Record<string, 'wrong' | 'close' | 'correct'>[]>([]);
 
   return (
     <>
@@ -38,7 +48,7 @@ function App() {
       <p>Current value: {value}</p>
       <h1>Vite + React</h1>
 
-      <GuessContainer guesses={[items[0], items[1]]} solution={items[1]} categories={["name", "releaseDate", "type", "isCraftable", "availability"]}/>
+      <GuessContainer guesses={guesses} feedbacks={feedbacks}/>
 
       <div className="card">
         <p>

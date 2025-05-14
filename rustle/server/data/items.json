@@ -1,0 +1,16 @@
+[
+    {
+        "name": ["Assault Rifle"],
+        "releaseDate": ["2016"],
+        "type": ["weapon"],
+        "isCraftable": ["true"],
+        "availability": ["scientist", "elite crate"]
+      },
+      {
+        "name": ["Semi Auto Rifle"],
+        "releaseDate": ["2018"],
+        "type": ["weapon"],
+        "isCraftable": ["true"],
+        "availability": ["scientist", "military crate"]
+      }
+]
