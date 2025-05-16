@@ -11,6 +11,7 @@ function App() {
 
   const handleInputChange = async (newValue: string) => {
     setValue(newValue);
+    
     if(newValue.length >= 3) {
       const response = await fetch(`http://localhost:3000/items`, {
         method: "POST",

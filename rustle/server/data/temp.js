@@ -21,13 +21,15 @@ let res = [];
 
 // Transform items
 for (const item of items) {
+    console.log(item)
     const newItem = {
         name: [item.name],
         type: [item.type],
-        stackSize: [item.stackSize],
-        craftable: [item.craftable],
-        releaseDate: [item.releaseDate],
-        despawnTime: [item.despawnTime]
+        stackSize: item.stackSize,
+        craftable: item.craftable,
+        releaseDate: item.releaseDate,
+        despawnTime: item.despawnTime,
+        loot: item.loot[0]
     };
     res.push(newItem);
 }
