@@ -9,8 +9,8 @@ interface GuessContainerProps {
 const GuessContainer: React.FC<GuessContainerProps> = ({ guesses, feedbacks }) => {
     return (
       <div className="guess-container space-y-2">
-        <div className="grid grid-cols-6 gap-2 font-bold">
-          {["name", "releaseDate", "type", "craftable", "stackSize", "despawnTime"].map(category => (
+        <div className="grid grid-cols-7 gap-2 font-bold">
+          {["name", "releaseDate", "type", "craftable", "stackSize", "despawnTime", "loot"].map(category => (
             <div className="cell">
               {category}
             </div>
@@ -21,7 +21,7 @@ const GuessContainer: React.FC<GuessContainerProps> = ({ guesses, feedbacks }) =
             key={index}
             guess={guess}
             feedback={feedbacks[index]}
-            categories={["name", "releaseDate", "type", "craftable", "stackSize", "despawnTime"]}
+            categories={["name", "releaseDate", "type", "craftable", "stackSize", "despawnTime", "loot"]}
           />
         ))}
       </div>

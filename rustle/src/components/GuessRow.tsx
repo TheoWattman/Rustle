@@ -9,7 +9,7 @@ interface GuessRowProps {
 
 const GuessRow: React.FC<GuessRowProps> = ({guess, feedback, categories}) => {
     return (
-        <div className="guess-row grid grid-cols-6 gap-2">
+        <div className="guess-row grid grid-cols-7 gap-2">
             {
                 categories.map((category) => {
                     const value = guess[category];
@@ -17,7 +17,12 @@ const GuessRow: React.FC<GuessRowProps> = ({guess, feedback, categories}) => {
 
                     return (
                         <div key={category} className={`cell ${status}`}>
-                            {value}
+                            {Array.isArray(value)
+                                ? value.map((val, index) => (
+                                    <p key={`${category}-${index}`}>{val}</p>
+                                ))
+                                : <p>{value}</p>
+                            }
                         </div>
                     )
                 })

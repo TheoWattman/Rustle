@@ -42,6 +42,7 @@ function evaluateMatch(a, b) {
 
 router.post("/", (req, res) => {
     const guess = findItemByName(req.body.value);
+
     let categoryFeedback = {
         name: evaluateMatch(guess.name, solution.name),
         releaseDate: evaluateMatch(guess.releaseDate, solution.releaseDate),
@@ -49,6 +50,7 @@ router.post("/", (req, res) => {
         craftable: evaluateMatch(guess.craftable, solution.craftable),
         stackSize: evaluateMatch(guess.stackSize, solution.stackSize),
         despawnTime: evaluateMatch(guess.despawnTime, solution.despawnTime),
+        loot: evaluateMatch(guess.loot, solution.loot),
     }
 
     let success = false;
