@@ -4,6 +4,8 @@ import fs from 'fs';
 const items = JSON.parse(fs.readFileSync('server/data/items.json', 'utf8'));
 const router = express.Router();
 
+items.map(item => item.craftable[0] = `${item.craftable[0]}`);
+
 function countCommonElements(a, b) {
     let count = 0;
 
@@ -40,17 +42,25 @@ function evaluateMatch(a, b) {
 
 router.post("/", (req, res) => {
     const guess = findItemByName(req.body.value);
-    
     let categoryFeedback = {
         name: evaluateMatch(guess.name, solution.name),
         releaseDate: evaluateMatch(guess.releaseDate, solution.releaseDate),
         type: evaluateMatch(guess.type, solution.type),
-        isCraftable: evaluateMatch(guess.isCraftable, solution.isCraftable),
-        availability: evaluateMatch(guess.availability, solution.availability)
+        craftable: evaluateMatch(guess.craftable, solution.craftable),
+        stackSize: evaluateMatch(guess.stackSize, solution.stackSize),
+        despawnTime: evaluateMatch(guess.despawnTime, solution.despawnTime),
     }
 
+    let success = false;
+
+    if (!Object.values(categoryFeedback).some(val => val === "wrong" || val === "close")) {
+        success = true;
+    }    
+
+    console.log(categoryFeedback)
+
     try {
-        res.status(200).send({body : {guess : guess, categoryFeedback}});
+        res.status(200).send({body : {guess : guess, categoryFeedback, success}});
     } catch (error) {
         console.log("Error during validation");
         res.status(400).send({error: error.message});
