@@ -9,7 +9,7 @@ interface GuessRowProps {
 
 const GuessRow: React.FC<GuessRowProps> = ({guess, feedback, categories}) => {
     return (
-        <div className="guess-row flex gap-2">
+        <div className="guess-row grid grid-cols-6 gap-2">
             {
                 categories.map((category) => {
                     const value = guess[category];

@@ -36,7 +36,11 @@ function App() {
     const data = await response.json();
 
     const parsed = (data.body);
-    const { guess, categoryFeedback } = parsed;
+    const { guess, categoryFeedback, success } = parsed;
+
+    if(success) {
+      alert("You won!")
+    }
 
     setGuesses(prev => [...prev, guess]);
     setFeedbacks(prev => [...prev, categoryFeedback]);
@@ -48,19 +52,8 @@ function App() {
   return (
     <>
       <InputBar placeholder="Enter text here" completions={completions} onChange={handleInputChange} onSubmit={handleSubmit} />
-      <p>Current value: {value}</p>
-      <h1>Vite + React</h1>
 
       <GuessContainer guesses={guesses} feedbacks={feedbacks}/>
-
-      <div className="card">
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
 }
